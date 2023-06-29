@@ -249,7 +249,7 @@ function S2() {
 
     if (!USERNAME || !SELECTED_PLATFORM) {
 
-        alert("Enter your Fortnite username and select your platform.")
+        alert("Enter your ROBLOX username and select your platform.")
 
     } else {
 
